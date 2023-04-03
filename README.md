@@ -4,6 +4,8 @@
 
 Zig binding for **tinyfiledialogs**.
 
+**NOTE**: tinyfiledialogsW.zig is only for windows.
+
 ### References
  - [tinyfiledialogs-source](https://sourceforge.net/projects/tinyfiledialogs/)
  - [tinyfiledialogs-fork](https://github.com/thechampagne/tinyfiledialogs/tree/v3.10) - **v3.10**
